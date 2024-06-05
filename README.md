@@ -44,4 +44,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@HediElOuni](https://www.frontendmentor.io/profile/HediElOuni)
+- Frontend Mentor Account: [@HediElOuni](https://www.frontendmentor.io/profile/HediElOuni)
