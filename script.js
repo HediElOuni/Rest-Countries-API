@@ -25,7 +25,7 @@ function displayCountries(countries) {
     randomCountries.forEach(country => {
         const countryCard = document.createElement('div');
         countryCard.innerHTML = `
-            <img src="${country.flags.svg}" alt="Flag of ${country.name.common}">
+            <img src="${country.flags.svg}">
             <div>
                 <h3>${country.name.common}</h3>
                 <p><span>Population:</span> ${country.population.toLocaleString()}</p>
@@ -70,7 +70,7 @@ function detailView(country) {
     home.style.display = 'none';
     detail.style.display = 'block';
     countryDetail.innerHTML = `
-        <img src="${country.flags.svg}" alt="Flag of ${country.name.common}">
+        <img src="${country.flags.svg}">
         <div class="detail-info-container">
             <h2>${country.name.common}</h2>
             <div class="detail-info">
