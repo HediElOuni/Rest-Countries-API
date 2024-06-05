@@ -40,7 +40,8 @@ Users should be able to:
 
 - HTML
 - CSS
-- JavaScript
+- JS
+- API
 
 ## Author
 
