@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/HediElOuni/Rest-Countries-API
-- Live Site URL: https://rest-countries-api-heo.netlify.app/
+- Live Site URL: https://rest-countries-api-heo.netlify.app
 
 ## My process
 
